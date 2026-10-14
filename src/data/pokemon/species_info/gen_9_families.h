@@ -589,9 +589,9 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
     [SPECIES_LECHONK] =
     {
         .baseHP        = 54,
-        .baseAttack    = 45,
+        .baseAttack    = 100,
         .baseDefense   = 40,
-        .baseSpeed     = 35,
+        .baseSpeed     = 100,
         .baseSpAttack  = 35,
         .baseSpDefense = 45,
         .types = MON_TYPES(TYPE_NORMAL),
