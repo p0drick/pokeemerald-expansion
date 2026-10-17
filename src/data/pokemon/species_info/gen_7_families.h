@@ -1166,8 +1166,8 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
 
     [SPECIES_CHARJABUG] =
     {
-        .baseHP        = 57,
-        .baseAttack    = 82,
+        .baseHP        = 67,
+        .baseAttack    = 120,
         .baseDefense   = 95,
         .baseSpeed     = 36,
         .baseSpAttack  = 55,
